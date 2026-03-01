@@ -223,4 +223,8 @@ f(n) = h(n)
 ---
 
 ## Conclusion
+<<<<<<< HEAD
 This project demonstrates intelligent navigation using informed search algorithms with dynamic environment handling, making it suitable for applications like robotics navigation, game AI, and autonomous agents.
+=======
+This project demonstrates intelligent navigation using informed search algorithms with dynamic environment handling, making it suitable for applications like robotics navigation, game AI, and autonomous agents.
+>>>>>>> e1056d52da516d90e141871f5340c1c0ee13a4b2
